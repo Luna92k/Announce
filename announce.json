@@ -13,9 +13,40 @@
     "title": "Jordan Bundle For Free!",
     "description": "A bundle is up for grabs! You need 5 credits on your account to get the Jordan bundle!", 
     "image": "https://i.imgur.com/si8Nz8X.jpeg"
+  },
+  {
+    "name": "Stormfarer Outfit",
+    "price": 1500,
+    "image": "https://i.imgur.com/79bZS9t.jpeg"
+  },
+  {
+    "name": "Neural Nexus Pickaxe",
+    "price": 2000,
+    "image": "https://i.imgur.com/4fSeolA.jpeg"
+  },
+  {
+    "name": "Cyber Strike Glider",
+    "price": 1200,
+    "image": "https://i.imgur.com/si8Nz8X.jpeg"
+  },
+  {
+    "name": "Galaxy Guardian Emote",
+    "price": 1800,
+    "image": "https://i.imgur.com/79bZS9t.jpeg"
+  },
+  {
+    "name": "Neon Ninja Backpack",
+    "price": 1600,
+    "image": "https://i.imgur.com/4fSeolA.jpeg"
+  },
+  {
+    "name": "Plasma Phoenix Wrap",
+    "price": 2200,
+    "image": "https://i.imgur.com/si8Nz8X.jpeg"
+  },
+  {
+    "name": "Quantum Queen Contrail",
+    "price": 2500,
+    "image": "https://i.imgur.com/79bZS9t.jpeg"
   }
-
 ]
-
-
-
