@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Lix le bb",
+    "description": "Description de l'annonce 1",
+    "image": "https://i.imgur.com/PWYQDCH.jpeg"
+  },
+  {
+    "title": "Titresada 2", 
+    "description": "Description de l'annonce 2",
+    "image": "https://i.imgur.com/PWYQDCH.jpeg"
+  },
+  {
+    "title": "Tsadonce 3",
+    "description": "Description de l'annonce 3", 
+    "image": "https://i.imgur.com/PWYQDCH.jpeg"
+  }
+]
